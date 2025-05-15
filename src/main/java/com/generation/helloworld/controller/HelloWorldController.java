@@ -15,6 +15,6 @@ public class HelloWorldController {
 	
 	@GetMapping("/turma82")
 	public String turmaJava82() {
-		return "<marquee>hello world, turma java 82!</marquee>";
+		return "<marquee>Hello world, turma java 82!</marquee>";
 	}
 }
